@@ -31,7 +31,6 @@ void swap_left(listint_t *list)
 			list = list->prev;
 	}
 }
-
 /**
  * swap_right -swap two nodes left rigth position
  * @l: list
